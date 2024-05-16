@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">submission</string>
+    <string name="home_string">Our Characters</string>
+    <string name="about_string">About</string>
+    <string name="detail_string">Detail</string>
+
+    <string name="characters_name">Characters Name</string>
+
+    <string name="detail">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias aliquam assumenda dolorem earum eligendi enim eum excepturi, exercitationem expedita fugiat, id impedit ipsa magnam maiores odit, officia optio provident quaerat quas quasi quis quod quos sed sint sit velit voluptas. Accusamus aut autem beatae, consectetur consequatur deleniti dicta dignissimos dolor dolore, dolores earum est et eum expedita inventore laborum laudantium libero minima minus modi molestiae non nulla officia perspiciatis quae quis quod rerum suscipit tempora voluptas? Adipisci architecto blanditiis debitis dolores eos excepturi facilis hic laudantium libero minima nesciunt, nihil nisi odit optio quasi recusandae sequi tenetur totam unde.</string>
+
+    <string name="image_splashscreen">image_splashscreen</string>
+
+    <string name="about">about</string>
+    <string name="share">share</string>
+    <string name="text_view">text_view</string>
+    <string name="todo">TODO</string>
+
+    <string name="myname">Mochammad Rifk Andrianto</string>
+    <string name="contact">rifky140904@gmail.com\n<a href="https://www.linkedin.com/in/mochammad-rifky-andrianto-5819782b3/">linkedin.com</a></string>
+    <string name="resource">Content Resource :\n<a href="https://boboiboy.fandom.com/id/wiki/Daftar_karakter_BoBoiBoy">boboiboy.fandom.com</a></string>
+
+    <string-array name="names">
+        <item>Adu Du</item>
+        <item>Boboiboy</item>
+        <item>Fang</item>
+        <item>Gopal</item>
+        <item>Ochobot</item>
+        <item>Papa Zola</item>
+        <item>Probe</item>
+        <item>Tok Aba</item>
+        <item>Yaya</item>
+        <item>Ying</item>
+    </string-array>
+
+    <string-array name="details">
+        <item>Adu Du adalah karakter antagonis utama seri BoBoiBoy, dan juga musuh ketat BoBoiBoy dan kawan-kawannya pada musim pertama dan kedua. Akan tetapi, di musim ketiga, dia bertahap menjadi karakter baik dan afiliasi dengan BoBoiBoy dan kawan-kawan sebelum dibujuk kembali ke kancah kejahatan di akhir musim tersebut.</item>
+        <item>BoBoiBoy adalah karakter utama dalam seri BoBoiBoy dan BoBoiBoy Galaxy. Dia adalah anak muda dengan kemampuan unik untuk memanipulasi elemen dan memiliki misi untuk mencari dan mengumpulkan Power Sphera yang tersembunyi di seluruh galaksi.</item>
+        <item>Fang adalah salah seorang teman seperjuangan BoBoiBoy yang memiliki kekuatan untuk memanipulasi bayang yang diberikan oleh Ochobot.</item>
+        <item>Gopal adalah teman seperjuangan BoBoiBoy yang menerima kekuatan untuk mengubah benda-benda menjadi makanan atau benda lain daripada Ochobot.</item>
+        <item>Ochobot merupakan sebuah Power Sphera generasi ke-9 yang telah diupgrade dalam BoBoiBoy: The Movie. Dia mulai menjadi teman dekat BoBoiBoy setelah dia diselamatkan oleh BoBoiBoy secara tidak sengaja. Ochobot kini membawa Kekuatan Teleportasi yang ditransfer dari sfera kuasa generasi pertama yaitu Klamkabot.</item>
+        <item>Papa Zola adalah karakter dalam seri BoBoiBoy dan BoBoiBoy Galaxy. Papa adalah seorang hero yang keluar dari permainan videonya sendiri pada musim pertama. Akibat dari kejadian itu, Papa Zola terpaksa mencari pekerjaan di dunia BoBoiBoy, dan akhirnya menjadi guru untuk mata pelajaran Matematika dan Pendidikan Jasmani di Sekolah Rendah Pulau Rintis.</item>
+        <item>Probe adalah pembantu dan teman kepada Adu Du yang berupa sebuah robot ungu. Probe memiliki kemampuan untuk berubah menjadi modus-modus lain yang lebih besar dan dilengkapi dengan senjata-senjata yang hebat.</item>
+        <item>Tok Aba adalah kakek dari BoBoiBoy yang memiliki toko kakao yang amat terunggul di Pulau Rintis.</item>
+        <item>Yaya adalah salah seorang teman seperjuangan BoBoiBoy yang menerima kekuatan untuk terbang dan memanipulasi gravitasi daripada Ochobot.</item>
+        <item>Ying adalah salah seorang teman seperjuangan BoBoiBoy yang memiliki kekuatan untuk berlari pantas dan memanipulasi waktu yang diberikan oleh Ochobot.</item>
+    </string-array>
+
+    <integer-array name="photos">
+        <item>@drawable/adudu</item>
+        <item>@drawable/boboiboy</item>
+        <item>@drawable/fang</item>
+        <item>@drawable/gopal</item>
+        <item>@drawable/ochobot</item>
+        <item>@drawable/papazola</item>
+        <item>@drawable/probe</item>
+        <item>@drawable/tokaba</item>
+        <item>@drawable/yaya</item>
+        <item>@drawable/ying</item>
+    </integer-array>
+</resources>
